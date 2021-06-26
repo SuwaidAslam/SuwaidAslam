@@ -32,7 +32,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_licenses: yes
           plugin_licenses_legal: yes
-          plugin_support: yes
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
