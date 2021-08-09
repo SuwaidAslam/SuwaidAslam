@@ -1,5 +1,15 @@
 <h2 align='center'>Hey There! I am Suwaid <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![sql](https://img.shields.io/static/v1?label=SQL&message=Sql&color=lightgray)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -7,7 +17,6 @@
 <a href="https://github.com/SuwaidAslam">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuwaidAslam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SuwaidAslam&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="25em" src="https://komarev.com/ghpvc/?username=SuwaidAslam&style=plastic"/>
 </a>
 </p>
 
