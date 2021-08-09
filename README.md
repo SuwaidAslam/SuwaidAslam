@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Software Engineering.\
 🌱 &nbsp;I'm on track for learning more about Data science and Machine Learning.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at suwaidaslam@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at suwaidaslam@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
