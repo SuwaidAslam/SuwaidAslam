@@ -10,6 +10,7 @@
   ![ViewCount](https://komarev.com/ghpvc/?username=SuwaidAslam&color=1A4730)
 </a>
 </p>
+![](https://komarev.com/ghpvc/?username=SuwaidAslam&style=plastic)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
