@@ -20,8 +20,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-suwaid-aslam/"><img src="https://img.shields.io/badge/-Suwaid%20Aslam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:suwaidaslam@gmail.com"><img src="https://img.shields.io/badge/-suwaidaslam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=suwaidaslam@gmail.com"><img src="https://img.shields.io/badge/-suwaidaslam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/SuwaidAslam"><img src="https://img.shields.io/badge/-@SuwaidAslam-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
   
 <!-- If you're using "main" as default branch -->
